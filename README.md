@@ -40,8 +40,7 @@
 
 ## 📂 파일 구조 (File Structure)
 
-## 📂 파일 구조 (File Structure)
-
 - [📄 project_audiologist.py](./project_audiologist.py): 전체 애플리케이션의 메인 실행 파일 및 UI 레이아웃 정의.
 - [⚙️ chatbot.py](./chatbot.py): `ChatBot` 클래스를 포함한 핵심 비즈니스 로직 모듈.
+- [⚙️ chatbot_mocking.py](./chatbot_mocking.py): 실제 운영 환경에서의 비용 최적화와 보안성 확보를 위해, 상시 공개용 배포 버전에는 모의 응답(Mocking) 아키텍처 파일.
 ---
