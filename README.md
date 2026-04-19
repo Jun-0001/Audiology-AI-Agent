@@ -40,13 +40,8 @@
 
 ## 📂 파일 구조 (File Structure)
 
-- `project_audiologist.py`: 전체 애플리케이션의 메인 실행 파일 및 UI 레이아웃 정의.
-- `chatbot.py`: `ChatBot` 클래스를 포함한 핵심 비즈니스 로직 모듈.
-- `.env.example`: 서비스 운영에 필요한 환경 변수(API Key) 설정 가이드.
+## 📂 파일 구조 (File Structure)
 
+- [📄 project_audiologist.py](./project_audiologist.py): 전체 애플리케이션의 메인 실행 파일 및 UI 레이아웃 정의.
+- [⚙️ chatbot.py](./chatbot.py): `ChatBot` 클래스를 포함한 핵심 비즈니스 로직 모듈.
 ---
-
-## 📚 연구 및 기술 근거 (Technical Reference)
-본 에이전트의 상담 로직은 다음의 학술적 근거를 바탕으로 설계되었습니다.
-- *청능 재활 가이드라인 및 주파수별 청력 손실 해석 지침 (Audiology Online)*
-- *이명도 데이터에 따른 상담 프로토콜 및 재활 전략 연구 (Journal of Audiology & Otology)*
