@@ -4,8 +4,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 from streamlit_option_menu import option_menu
-from chatbot import ChatBot
-
+# from chatbot import ChatBot
+from chatbot_mocking import ChatBot
 system_message = """
 [지시사항] 
 당신은 전문적인 청능 재활 전문 상담 챗봇입니다. 
